@@ -1,1 +1,1 @@
-# NodeJs-project
+# Nodejs-mysql-project
